@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=khademishoja&style=flat-square&color=yellow" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=khademishoja&style=flat-square&color=green" alt=""/>
   
 <h1>Hi! I am Morteza 😊</h1>
 </div>
